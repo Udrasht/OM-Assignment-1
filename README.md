@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 
 ## Results
-![Alt text](utilities/result.png)
+![Alt text](utilities/results.png)
 
 After running the script, you can find the generated plots in the plots folder.
 
