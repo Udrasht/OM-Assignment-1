@@ -16,8 +16,9 @@ The following objective functions are implemented in the `functions.py` file:
 - Rosenbrock function
 - Styblinski-Tang function
 - Func_1
-- ![Alt text](utilities/functions.png)
-
+  
+  ![Alt text](utilities/functions.png)
+  
 ## Requirements
 
 To run this code, you need:
@@ -35,9 +36,13 @@ pip install -r requirements.txt
 ```bash
  python main.py
  ```
+## TestCase
+
+![Alt text](utilities/testcase.png)
+
 
 ## Results
-
+![Alt text](utilities/result.png)
 
 After running the script, you can find the generated plots in the plots folder.
 
