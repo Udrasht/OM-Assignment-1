@@ -1,8 +1,5 @@
 
-Certainly! Here's the complete Markdown content for your README.md file:
 
-markdown
-Copy code
 # Optimization Algorithms
 
 This repository contains Python implementations of various optimization algorithms, including steepest descent and Newton's method, applied to different objective functions. The code provides functionalities to visualize the convergence behavior and contour plots of the objective functions.
